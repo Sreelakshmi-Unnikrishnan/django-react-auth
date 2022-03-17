@@ -1,0 +1,27 @@
+ol {
+    background: #ff9999;
+    padding: 20px;
+  }
+
+
+  ol li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+  }
+
+  .container h1{
+      color: aqua;
+  }
+
+  .container h2{
+      color: palegreen;
+      align-items: center;
+      text-align: center;
+  }
+
+  .container h3{
+    color: burlywood;
+    margin-left: 5px;
+}
